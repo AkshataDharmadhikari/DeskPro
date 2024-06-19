@@ -1,0 +1,19 @@
+tr {
+  color: black;
+  font-size: larger;
+  border: none;
+}
+tr button {
+  border: none;
+}
+tr button:hover {
+  background-color: #086cc4 !important;
+}
+tbody tr:hover {
+  background-color: rgb(188, 188, 188);
+  border: none;
+}
+
+canvas {
+  height: -webkit-fill-available !important;
+}
